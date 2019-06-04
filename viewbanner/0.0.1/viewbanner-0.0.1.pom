@@ -2,13 +2,13 @@
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.hqyz.bannerviewpager</groupId>
-  <artifactId>hqyzBannerviewpager</artifactId>
+  <groupId>com.hqyz.banner</groupId>
+  <artifactId>viewbanner</artifactId>
   <version>0.0.1</version>
   <packaging>aar</packaging>
   <name>banner for viewpager</name>
   <description>A modern implementation of the viewpage cms app Android</description>
-  <url>https://github.com/heqiyangzhou/maven_repo</url>
+  <url>https://github.com/heqiyangzhou/banner</url>
   <licenses>
     <license>
       <name>The Apache Software License, Version 2.0</name>
@@ -23,9 +23,9 @@
     </developer>
   </developers>
   <scm>
-    <connection>scm:git@github.com:heqiyangzhou/maven_repo.git</connection>
-    <developerConnection>scm:git@github.com:heqiyangzhou/maven_repo.git</developerConnection>
-    <url>https://github.com/heqiyangzhou/maven_repo</url>
+    <connection>scm:git@github.com:heqiyangzhou/banner.git</connection>
+    <developerConnection>scm:git@github.com:heqiyangzhou/banner.git</developerConnection>
+    <url>https://github.com/heqiyangzhou/banner</url>
   </scm>
   <dependencies>
     <dependency>
