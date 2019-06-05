@@ -2,9 +2,9 @@
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.hqyz.banner</groupId>
+  <groupId>com.hqyz</groupId>
   <artifactId>viewbanner</artifactId>
-  <version>0.0.1</version>
+  <version>1.0.1</version>
   <packaging>aar</packaging>
   <name>banner for viewpager</name>
   <description>A modern implementation of the viewpage cms app Android</description>
